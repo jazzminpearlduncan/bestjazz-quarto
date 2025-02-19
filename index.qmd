@@ -1,7 +1,19 @@
 ---
-title: "Website-Project"
+title: "Hello! Welcome!"
+image: https://www.walterfilm.com/wp-content/uploads/2020/09/WizTheSTset_b.jpg
+toc: false
+about:
+  template: marquee
+  image-shape: rounded
+  links:
+    - text: Instagram
+      href: https://www.instagram.com/5circuitsmedia/
+    - text: Email
+      href: jazzyp12.love@gmail.com
+      
+      
 ---
 
-This is a Quarto website.
+This is my Quarto website, created for my first assignment in Foundations of Data Science! Although this site only contains classwork now, I hope to further develop it as a landing page for my art portfolio, contains poetry, documentaries, digital art, and motion pictures, along with my more pride-inducing research papers, and perhaps, even a resume. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
