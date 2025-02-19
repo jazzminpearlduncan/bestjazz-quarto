@@ -7,17 +7,18 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Landing Page
+        text: "Landing Page"
     right:
       - text: "More About Me"
-        href: about.html
+        href: about.qmd
       - text: "Data Viz"
         menu:
          - text: "set 1"
            href: Database1.qmd
          - text: "set 2"
-           href: pride.html
-
+           href: Database2.qmd
+         - text: "Citations"
+           href: Citations.qmd
 format:
   html:
     theme:

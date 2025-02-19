@@ -1,10 +1,10 @@
 ---
-title: "Hello! Welcome!"
-image: https://www.walterfilm.com/wp-content/uploads/2020/09/WizTheSTset_b.jpg
+title: "Refuel Your Mind: Circle K for the Soul"
+image: https://i.pinimg.com/736x/c0/9d/51/c09d515bf4459c71821d9e32013d6940.jpg
 toc: false
 about:
   template: marquee
-  image-shape: rounded
+  image-shape: round
   links:
     - text: Instagram
       href: https://www.instagram.com/5circuitsmedia/
