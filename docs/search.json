@@ -25,6 +25,13 @@
     "href": "index.html",
     "title": "Refuel Your Mind: Circle K for the Soul",
     "section": "",
-    "text": "This is my Quarto website, created for my first assignment in Foundations of Data Science! Although this site only contains classwork now, I hope to further develop it as a landing page for my art portfolio, contains poetry, documentaries, digital art, and motion pictures, along with my more pride-inducing research papers, and perhaps, even a resume.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Although this site only contains classwork now, I hope to further develop it as a landing page for my art portfolio, contains poetry, documentaries, digital art, and motion pictures, along with my more pride-inducing research papers, and perhaps, even a resume."
+  },
+  {
+    "objectID": "Citations.html",
+    "href": "Citations.html",
+    "title": "DS Project1 Citations",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

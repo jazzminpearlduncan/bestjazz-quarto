@@ -3,17 +3,19 @@ title: "Refuel Your Mind: Circle K for the Soul"
 image: https://i.pinimg.com/736x/c0/9d/51/c09d515bf4459c71821d9e32013d6940.jpg
 toc: false
 about:
-  template: marquee
+  template: solana
+  image-width: 30em
   image-shape: round
   links:
     - text: Instagram
       href: https://www.instagram.com/5circuitsmedia/
     - text: Email
       href: jazzyp12.love@gmail.com
+    - text: GitHub Repo
+      href: https://github.com/jazzminpearlduncan/Website-Project.git
       
       
 ---
+Although this site only contains classwork now, I hope to further develop it as a landing page for my art portfolio, contains poetry, documentaries, digital art, and motion pictures, along with my more pride-inducing research papers, and perhaps, even a resume. 
 
-This is my Quarto website, created for my first assignment in Foundations of Data Science! Although this site only contains classwork now, I hope to further develop it as a landing page for my art portfolio, contains poetry, documentaries, digital art, and motion pictures, along with my more pride-inducing research papers, and perhaps, even a resume. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
