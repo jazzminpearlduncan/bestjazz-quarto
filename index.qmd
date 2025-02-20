@@ -1,9 +1,9 @@
 ---
 title: "Refuel Your Mind: Circle K for the Soul"
-image: https://i.pinimg.com/736x/c0/9d/51/c09d515bf4459c71821d9e32013d6940.jpg
+image: https://sagehens.com/images/2023/8/23/jazzmin_duncan_wtrack_2022_23.jpg?width=146
 toc: false
 about:
-  template: cyborg
+  template: solana
   image-width: 30em
   image-shape: round
   links:
@@ -14,7 +14,8 @@ about:
     - text: GitHub Repo
       href: https://github.com/jazzminpearlduncan/Website-Project.git
       
-      
+    
+        
 ---
 Although this site only contains classwork now, I hope to further develop it as a landing page for my art portfolio, contains poetry, documentaries, digital art, and motion pictures, along with my more pride-inducing research papers, and perhaps, even a resume. 
 
