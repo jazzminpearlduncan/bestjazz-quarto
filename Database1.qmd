@@ -2,3 +2,40 @@
 title: "dataset 1"
 ---
 
+```{r}
+
+library(dplyr)
+library(stringr)
+cheeses <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2024/2024-06-04/cheeses.csv')
+
+cheese_important <- cheeses |> 
+  select(cheese, milk, country, color) |>
+  filter(!is.na(milk), !str_detect(country, ","), !str_detect(milk, ","))
+
+         
+cheese_summary <- cheese_important |> 
+  group_by(country, milk) |> 
+  summarize(num_cheeses = n(), .groups = "drop") |>
+  mutate(num_cheese = as.integer(num_cheeses)) |>
+  filter(num_cheese > 1)
+cheese_summary 
+```
+
+```{r}
+library(ggplot2)
+
+ggplot(cheese_summary, aes(x = reorder(country, -(num_cheeses)), y = num_cheeses, fill = milk)) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~milk, scales = "free_y") +
+  coord_flip() +
+  labs(title = "Magnitude of Cheese Production by Country and Milk Type",
+       x = "Country",
+       y = "Number of Cheese Types",
+       fill = "Cheese Type") +
+  theme(
+    text = element_text(size = 12),
+    axis.text.y = element_text(size = 5),
+    axis.text.x = element_text(size = 5),
+    strip.text = element_text(size = 5, face = "bold"))
+
+```
