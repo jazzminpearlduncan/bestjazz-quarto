@@ -1,8 +1,12 @@
 ---
-title: "dataset 1"
+title: "Cheese over Space and Animals"
+description: Scatterplot analysis of cheese origins over nations
+author: Jazzmin Duncan
+date: February 17, 2025
+format: html
 ---
 
-```{r}
+```{r, echo=FALSE}
 
 library(dplyr)
 library(stringr)
@@ -18,10 +22,9 @@ cheese_summary <- cheese_important |>
   summarize(num_cheeses = n(), .groups = "drop") |>
   mutate(num_cheese = as.integer(num_cheeses)) |>
   filter(num_cheese > 1)
-cheese_summary 
 ```
 
-```{r, fig.width=10, fig.height=8}
+```{r, fig.width=10, fig.height=8, echo=FALSE}
 library(ggplot2)
 
 ggplot(cheese_summary, aes(x = reorder(country, -(num_cheeses)), y = num_cheeses, fill = milk)) +
@@ -38,6 +41,9 @@ ggplot(cheese_summary, aes(x = reorder(country, -(num_cheeses)), y = num_cheeses
     axis.text.x = element_text(size = 10),
     strip.text = element_text(size = 10, face = "bold"))
 
-ggsave("Cheese Production.jpeg", width = 12, height = 8, dpi = 300)
-
 ```
+This is a faceted bar chart demonstrating different eating habits across nations as it pertains to cheese. We can see that cows are substantially more centered in the dairy industry, while other milks, like water buffalo, go relatively unnoticed. You can also see countries in multiple different groups demonstrating both the breadth and nicheness of their cheeses, Italy being particularly noticible in this regard. 
+
+TidyTusedy dataset: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04
+
+Data origins: cheese.com, a blog and resource for cheese lovers, collected this data. 

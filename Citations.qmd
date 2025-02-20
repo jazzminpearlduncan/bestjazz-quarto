@@ -2,3 +2,7 @@
 title: "DS Project1 Citations"
 ---
 To learn more about Quarto websites visit https://quarto.org/docs/websites.
+
+TidyTuesday Dataset 1: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04
+
+TidyTuesday Dataset 2: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30
