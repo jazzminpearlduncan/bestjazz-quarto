@@ -11,7 +11,7 @@ important_movies <- summer_movies |>
   select(runtime_minutes, year, average_rating) |>
   filter(year>1945, !is.na(year), !is.na(runtime_minutes), !is.na(average_rating))
 
-important_movies
+colnames(important_movies)
 ```
 
 
