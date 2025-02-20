@@ -1,3 +1,26 @@
 ---
 title: "dataset 2"
 ---
+```{r, fig.width=10, fig.height=8}
+
+summer_movies <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2024/2024-07-30/summer_movies.csv')
+
+important_movies <- summer_movies |>
+  select(runtime_minutes, year, average_rating) |>
+  filter(year>1945, !is.na(year), !is.na(runtime_minutes), !is.na(average_rating))
+
+important_movies
+```
+
+
+```{r}
+library(ggplot2)
+ggplot(data=important_movies, aes(x = year, y = runtime_minutes, color = average_rating)) +
+  geom_point() +
+  labs(
+    title = "Changes in Movie Runtime (1945-2024)",
+       x = "Year",
+       y = "Runtime (min)")
+  
+  
+```
