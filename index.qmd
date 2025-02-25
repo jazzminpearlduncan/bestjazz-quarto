@@ -1,16 +1,16 @@
 ---
-title: "Refuel Your Mind: Circle K for the Soul"
-image: https://sagehens.com/images/2023/8/23/jazzmin_duncan_wtrack_2022_23.jpg?width=146
+title: "hello!"
+image: https://media.licdn.com/dms/image/v2/D5603AQGHsSaLa6h51A/profile-displayphoto-shrink_400_400/B56ZTxjuReGUAg-/0/1739219461919?e=1746057600&v=beta&t=opAPXylC0pYJIDxqyRBSHpeJrI95RTTTHjTf5tiisK8
 toc: false
 about:
   template: solana
-  image-width: 30em
-  image-shape: round
+  image-width: 10em
+  image-shape: rounded
   links:
     - text: Instagram
       href: https://www.instagram.com/5circuitsmedia/
     - text: Email
-      href: jazzyp12.love@gmail.com
+      href: "jazzyp12.love@gmail.com"
     - text: GitHub Repo
       href: https://github.com/jazzminpearlduncan/Website-Project.git
       

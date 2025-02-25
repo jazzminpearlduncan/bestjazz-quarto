@@ -1,1 +1,13 @@
 /* css styles */
+
+body {
+    font-family: "Arial", Sans-Serif;
+}
+
+h1, h2, h3 {
+    font-family: "Arial", Sans-Serif;
+}
+
+code {
+    font-family: "Arial", Sans-Serif;
+}

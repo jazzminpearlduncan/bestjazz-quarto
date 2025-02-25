@@ -3,15 +3,15 @@ project:
   output-dir: docs
   
 website:
-  title: "Jazzmin Duncan - DS Project 1"
+  title: "jazzmin (jazz) pearl duncan"
   navbar:
     left:
-      - href: index.qmd
-        text: "Landing Page"
+      - href: home.qmd
+        text: "home"
+      - href: about.qmd
+        text: "about me"
     right:
-      - text: "More About Me"
-        href: about.qmd
-      - text: "Data Viz"
+      - text: "projects"
         menu:
          - text: "set 1"
            href: Database1.qmd
@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme:
-      - morph
+      - cerulean
     css: styles.css
     toc: true
     page-layout: full

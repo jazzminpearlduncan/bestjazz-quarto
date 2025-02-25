@@ -22,6 +22,8 @@ cheese_summary <- cheese_important |>
   summarize(num_cheeses = n(), .groups = "drop") |>
   mutate(num_cheese = as.integer(num_cheeses)) |>
   filter(num_cheese > 1)
+
+cheese_summary
 ```
 
 ```{r, fig.width=10, fig.height=8, echo=FALSE}
