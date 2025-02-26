@@ -3,22 +3,32 @@ project:
   output-dir: docs
   
 website:
-  title: "jazzmin (jazz) pearl duncan"
+  title: "best, \njazz"
   navbar:
     left:
-      - href: home.qmd
-        text: "home"
       - href: about.qmd
         text: "about me"
+      - href: resume.qmd
+        text: "resumé"
     right:
       - text: "projects"
         menu:
-         - text: "set 1"
-           href: Database1.qmd
-         - text: "set 2"
-           href: Database2.qmd
-         - text: "Citations"
+         - text: "The Loop"
+           href: TheLoop.qmd
+         - text: "Hi-De-Ho: Honoring Cab Calloway through Animation"
+           href: Hi-De-Ho.qmd
+         - text: "Halloweekend in Claremont"
            href: Citations.qmd
+         - text: "Cowboy Poker"
+           href: "Citations.qmd"
+         - text: "Tech Accountability Archive"
+           href: Citations.qmd
+           
+      - text: "writing"
+        menu:
+          - text: "poems & creative writing"
+          - text: "essays"
+          - text: "organizations"
 format:
   html:
     theme:

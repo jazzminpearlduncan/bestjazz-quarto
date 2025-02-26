@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "Database1.html",
+    "href": "Database1.html",
+    "title": "The Loop",
+    "section": "",
+    "text": "This is a faceted bar chart demonstrating different eating habits across nations as it pertains to cheese. We can see that cows are substantially more centered in the dairy industry, while other milks, like water buffalo, go relatively unnoticed. You can also see countries in multiple different groups demonstrating both the breadth and nicheness of their cheeses, Italy being particularly noticible in this regard.\nTidyTusedy dataset: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04\nData origins: cheese.com, a blog and resource for cheese lovers, collected this data."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me!",
+    "section": "",
+    "text": "Hi, I’m Jazzmin Pearl Duncan—a media science student, writer, and curator passionate about the intersections of technology, digital media, and music culture. With a background in research, data teams, and storytelling, I explore how emerging technologies shape media production, intellectual property, and cultural expression.\nI’m the Founder and Production Manager of Circuits, Internet, Media & Software (CIMS), a collective dedicated to celebrating the fusion of media and computer science through events, publications, and community-driven projects. My work spans journalism, law and policy writing, and software projects that engage with digital culture in innovative ways.\nCurrently, I’m contributing to p-RoomMatch, a smart roommate-matching platform, as part of the data team, and I’m a staff writer for the Claremont Journal of Law & Public Policy, where I focus on AI’s impact on music licensing and intellectual property law. I’m also a DJ, event planner, and multimedia artist with a love for experimental sounds, textile work, and digital collaging.\nThrough my work, I aim to blend technical insight with creative vision, fostering spaces where media, technology, and culture collide in meaningful ways.\nLet’s connect and collaborate!"
+  },
+  {
+    "objectID": "Citations.html",
+    "href": "Citations.html",
+    "title": "DS Project1 Citations",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nTidyTuesday Dataset 1: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04\nTidyTuesday Dataset 2: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30"
+  },
+  {
+    "objectID": "Website-Project.html",
+    "href": "Website-Project.html",
+    "title": "Website-Project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Website-Project.html#quarto",
+    "href": "Website-Project.html#quarto",
+    "title": "Website-Project",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jazzmin pearl duncan",
+    "section": "",
+    "text": "Hello! And thank you for visiting!\nI coded this entire site using R and GitHub Pages!\nNote (2/26/25): If you’re reading this right now, the page is unfinished, and actively being filled as you read! Check back in a couple of hours to see the finished product! If you want to read something in the meantime, see my resumé or the first issue of The Loop (both found in the navigation bar above; The Loop is under projects)."
+  },
+  {
+    "objectID": "Database2.html",
+    "href": "Database2.html",
+    "title": "Runtime through The Years",
+    "section": "",
+    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nRows: 905 Columns: 10\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (6): tconst, title_type, primary_title, original_title, genres, simple_t...\ndbl (4): year, runtime_minutes, average_rating, num_votes\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\n\n# A tibble: 843 × 3\n   years runtime_minutes average_rating\n   &lt;dbl&gt;           &lt;dbl&gt;          &lt;dbl&gt;\n 1  1946             102            6.1\n 2  1946             150            7.5\n 3  1947              88            5.8\n 4  1948              93            5.7\n 5  1949             102            7.1\n 6  1951              87            5.7\n 7  1950             108            7.1\n 8  1951             125            8.1\n 9  1951             103            6.8\n10  1951              96            7.5\n# ℹ 833 more rows\n\n\n\n\n\n\n\n\n\n\n\n [1] \"tconst\"          \"title_type\"      \"primary_title\"   \"original_title\" \n [5] \"year\"            \"runtime_minutes\" \"genres\"          \"simple_title\"   \n [9] \"average_rating\"  \"num_votes\"      \n\n\nTidyTuesday dataset: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30\nData origins: The Internet Movie Database collected this data; it contains a list of movies with the name “Summer” in the title."
+  },
+  {
+    "objectID": "Hi-De-Ho.html",
+    "href": "Hi-De-Ho.html",
+    "title": "Runtime through The Years",
+    "section": "",
+    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nRows: 905 Columns: 10\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (6): tconst, title_type, primary_title, original_title, genres, simple_t...\ndbl (4): year, runtime_minutes, average_rating, num_votes\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\n\n# A tibble: 843 × 3\n   years runtime_minutes average_rating\n   &lt;dbl&gt;           &lt;dbl&gt;          &lt;dbl&gt;\n 1  1946             102            6.1\n 2  1946             150            7.5\n 3  1947              88            5.8\n 4  1948              93            5.7\n 5  1949             102            7.1\n 6  1951              87            5.7\n 7  1950             108            7.1\n 8  1951             125            8.1\n 9  1951             103            6.8\n10  1951              96            7.5\n# ℹ 833 more rows\n\n\n\n\n\n\n\n\n\n\n\n [1] \"tconst\"          \"title_type\"      \"primary_title\"   \"original_title\" \n [5] \"year\"            \"runtime_minutes\" \"genres\"          \"simple_title\"   \n [9] \"average_rating\"  \"num_votes\"      \n\n\nTidyTuesday dataset: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30\nData origins: The Internet Movie Database collected this data; it contains a list of movies with the name “Summer” in the title."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "my resumé",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "TheLoop.html",
+    "href": "TheLoop.html",
+    "title": "The Loop",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  }
+]
