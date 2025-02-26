@@ -1,5 +1,4 @@
 ---
-title: "my resumé"
 format: html
 ---
 

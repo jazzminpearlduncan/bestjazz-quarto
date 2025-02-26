@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "best, \njazz"
+  title: "best, jazz"
   navbar:
     left:
       - href: about.qmd
