@@ -3,15 +3,5 @@ format: html
 ---
 
 
-Hell0!
-
-I’m Jazzmin Pearl Duncan—a media science student, writer, and curator passionate about the intersections of technology, digital media, and music culture. With a background in research, data teams, and storytelling, I explore how emerging technologies shape media production, intellectual property, and cultural expression.
-
-I’m the Founder and Production Manager of Circuits, Internet, Media & Software (CIMS), a collective dedicated to celebrating the fusion of media and computer science through events, publications, and community-driven projects. My work spans journalism, law and policy writing, and software projects that engage with digital culture in innovative ways.
-
-Currently, I’m contributing to p-RoomMatch, a smart roommate-matching platform, as part of the data team, and I’m a staff writer for the Claremont Journal of Law & Public Policy, where I focus on AI’s impact on music licensing and intellectual property law. I’m also a DJ, event planner, and multimedia artist with a love for experimental sounds, textile work, and digital collaging.
-
-Through my work, I aim to blend technical insight with creative vision, fostering spaces where media, technology, and culture collide in meaningful ways.
-
-Let’s connect and collaborate!
+### note: UNDER CONSTRUCTION (2-27-2025)
 

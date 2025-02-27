@@ -1,6 +1,5 @@
 ---
 title: "- jazz :)"
-image: afro.JPG
 toc: false
 about:
   template: broadside
@@ -18,7 +17,7 @@ about:
         
 ---
 
-# Welcome to My Website
+# Welcome!
 
 ![me DJing](DJ.jpg)
 

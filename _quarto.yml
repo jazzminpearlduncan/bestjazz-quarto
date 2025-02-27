@@ -25,7 +25,9 @@ website:
          - text: "Halloweekend in Claremont"
            href: Halloweekend.qmd
          - text: "Cowboy Poker"
+           href: poker.qmd
          - text: "Tech Accountability Archive"
+           href: TAA.qmd
 
            
       - text: "creative works"

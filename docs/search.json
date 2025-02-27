@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "- jazz :)",
     "section": "",
-    "text": "Hell0!\nI’m Jazzmin Pearl Duncan—a media science student, writer, and curator passionate about the intersections of technology, digital media, and music culture. With a background in research, data teams, and storytelling, I explore how emerging technologies shape media production, intellectual property, and cultural expression.\nI’m the Founder and Production Manager of Circuits, Internet, Media & Software (CIMS), a collective dedicated to celebrating the fusion of media and computer science through events, publications, and community-driven projects. My work spans journalism, law and policy writing, and software projects that engage with digital culture in innovative ways.\nCurrently, I’m contributing to p-RoomMatch, a smart roommate-matching platform, as part of the data team, and I’m a staff writer for the Claremont Journal of Law & Public Policy, where I focus on AI’s impact on music licensing and intellectual property law. I’m also a DJ, event planner, and multimedia artist with a love for experimental sounds, textile work, and digital collaging.\nThrough my work, I aim to blend technical insight with creative vision, fostering spaces where media, technology, and culture collide in meaningful ways.\nLet’s connect and collaborate!"
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
   },
   {
     "objectID": "Citations.html",
@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "- jazz :)",
     "section": "",
-    "text": "Welcome to My Website\n\n\n\nme DJing\n\n\nThis is my homepage where I showcase various projects and ideas.\nHello! And thank you for visiting!\nI coded this entire site using R and GitHub Pages!\nNote (2/26/25): If you’re reading this right now, the page is unfinished, and actively being filled as you read! Check back in a couple of hours to see the finished product! If you want to read something in the meantime, see my resumé or the first issue of The Loop (both found in the navigation bar above; The Loop is under projects)."
+    "text": "Welcome!\n\n\n\nme DJing\n\n\nThis is my homepage where I showcase various projects and ideas.\nHello! And thank you for visiting!\nI coded this entire site using R and GitHub Pages!\nNote (2/26/25): If you’re reading this right now, the page is unfinished, and actively being filled as you read! Check back in a couple of hours to see the finished product! If you want to read something in the meantime, see my resumé or the first issue of The Loop (both found in the navigation bar above; The Loop is under projects)."
   },
   {
     "objectID": "Database2.html",
@@ -67,7 +67,7 @@
     "href": "TheLoop.html",
     "title": "The Loop",
     "section": "",
-    "text": "“The Loop” (see Issue 1 below)\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
     "objectID": "Halloweekend.html",
@@ -86,9 +86,9 @@
   {
     "objectID": "pastacts.html",
     "href": "pastacts.html",
-    "title": "DS Project1 Citations",
+    "title": "Past Work",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nTidyTuesday Dataset 1: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04\nTidyTuesday Dataset 2: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30"
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
   },
   {
     "objectID": "contact.html",
@@ -115,8 +115,8 @@
     "objectID": "overview.html#college",
     "href": "overview.html#college",
     "title": "overview",
-    "section": "",
-    "text": "…"
+    "section": "college",
+    "text": "college\n…"
   },
   {
     "objectID": "overview.html#high-school",
@@ -138,5 +138,47 @@
     "title": "contact me!",
     "section": "",
     "text": "LinkedIn\nSubstack\nBook a 30-Minute Meeting!"
+  },
+  {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "photos",
+    "section": "",
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
+  },
+  {
+    "objectID": "essays.html",
+    "href": "essays.html",
+    "title": "essays",
+    "section": "",
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "writing",
+    "section": "",
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
+  },
+  {
+    "objectID": "orgs.html",
+    "href": "orgs.html",
+    "title": "orgs",
+    "section": "",
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
+  },
+  {
+    "objectID": "TAA.html",
+    "href": "TAA.html",
+    "title": "TAA",
+    "section": "",
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
+  },
+  {
+    "objectID": "poker.html",
+    "href": "poker.html",
+    "title": "poker",
+    "section": "",
+    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
   }
 ]
