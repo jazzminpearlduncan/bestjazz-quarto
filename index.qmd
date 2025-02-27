@@ -2,7 +2,7 @@
 title: "- jazz :)"
 toc: false
 about:
-  template: broadside
+  template: jolla
   image-width: 5em
   image-shape: round
   links:
@@ -11,15 +11,18 @@ about:
     - text: Email
       href: "mailto:jpduncan2022@gmail.com?
       &subject=I Came From Your Website!"
-    - text: GitHub Repo
-      href: https://github.com/jazzminpearlduncan/Website-Project.git
+    - text: Book a 30-Minute Meeting!
+      href: https://calendar.app.google/QsZ4EEaKmKxtV9L97
       
-        
+
 ---
 
 # Welcome!
 
-![me DJing](DJ.jpg)
+[Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark}
+ [LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger} [Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success} [Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark}
+
+![nice to meet you!](bush.jpg)
 
 This is my homepage where I showcase various projects and ideas.
 
@@ -27,6 +30,6 @@ Hello! And thank you for visiting!
 
 I coded this entire site using R and GitHub Pages! 
 
-Note (2/26/25): If you're reading this right now, the page is unfinished, and actively being filled as you read! Check back in a couple of hours to see the finished product! If you want to read something in the meantime, see my resumé or the first issue of The Loop (both found in the navigation bar above; The Loop is under projects).
+Note (2/27/25): If you're reading this right now, the page is unfinished, and actively being filled as you read! Check back in a couple of hours to see the finished product! If you want to read something in the meantime, see my resumé or the first issue of The Loop (both found in the navigation bar above; The Loop is under projects).
 
 
