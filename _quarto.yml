@@ -6,10 +6,12 @@ website:
   title: "best, jazz"
   navbar:
     left:
-      - href: about.qmd
-        text: "about me"
-      - href: resume.qmd
-        text: "resumé"
+      - text: "about me"
+        href: about.qmd
+      - text: "resumé"
+        menu:
+         - text: "current resume"
+           href: resume.qmd
     right:
       - text: "projects"
         menu:
