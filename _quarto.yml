@@ -18,6 +18,7 @@ website:
          - text: "Hi-De-Ho: Honoring Cab Calloway through Animation"
            href: Hi-De-Ho.qmd
          - text: "Halloweekend in Claremont"
+           href: Halloweekend.qmd
          - text: "Cowboy Poker"
          - text: "Tech Accountability Archive"
 

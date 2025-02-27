@@ -1,7 +1,6 @@
 ---
 title: "The Loop"
 description: Editor-In-Chief, Curator, and Page Designer
-author: Jazzmin Duncan
 date: December 14, 2024
 format: html
 ---
