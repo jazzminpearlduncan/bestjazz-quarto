@@ -1,8 +1,9 @@
 ---
-title: "in case you wanted to learn more about me..."
+format: html
 ---
 
-**<span style="color: #2596be;">Hell0!</span>**
+
+Hell0!
 
 I’m Jazzmin Pearl Duncan—a media science student, writer, and curator passionate about the intersections of technology, digital media, and music culture. With a background in research, data teams, and storytelling, I explore how emerging technologies shape media production, intellectual property, and cultural expression.
 

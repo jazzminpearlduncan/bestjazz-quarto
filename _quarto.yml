@@ -3,15 +3,19 @@ project:
   output-dir: docs
   
 website:
-  title: "best, jazz"
+  title: "- jazz :)"
   navbar:
     right:
       - text: "(!click me!)"
         href: about.qmd
-      - text: "resumé"
+      - text: "professional work"
         menu:
+         - text: "overview"
+           href: overview.qmd
          - text: "current resume"
            href: resume.qmd
+         - text: "past activities"
+           href: pastacts.qmd
       - text: "projects"
         menu:
          - text: "The Loop"
@@ -24,25 +28,18 @@ website:
          - text: "Tech Accountability Archive"
 
            
-      - text: "misc creations"
+      - text: "creative works"
         menu:
           - text: "organizations"
           - text: "poems & creative writing"
           - text: "essays"
           - text: "photography"
-
       - text: "contact me!"
-        menu:
-          - text: "Personal Instagram"
-            href: https://www.instagram.com/jazzmiinpearll/
-          - text: "Email"
-            href: "mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!"
-          - text: GitHub Repo
-            href: https://github.com/jazzminpearlduncan/Website-Project.git
+        href: contact.qmd
+
+            
 format:
   html:
-    theme:
-      - cerulean
     css: docs/styles.css
     toc: true
     page-layout: full
