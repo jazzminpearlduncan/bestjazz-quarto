@@ -31,9 +31,13 @@ website:
       - text: "creative works"
         menu:
           - text: "organizations"
+            href: orgs.qmd
           - text: "poems & creative writing"
+            href: writing.qmd
           - text: "essays"
+            href: essays.qmd
           - text: "photography"
+            href: photos.qmd
       - text: "contact me!"
         href: contact.qmd
 

@@ -5,10 +5,12 @@ format: html
 ## contact me!
 click headings for direct links.
 
-[Personal Instagram](https://www.instagram.com/jazzmiinpearll/){.btn .btn-secondary}
-@jazzmiinpearll on 
-[Email](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-secondary}
-[LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-secondary}
-[Substack](https://euphoniousthegreat.substack.com/){.btn .btn-secondary}
-[Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-secondary}
 
+
+[Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark}
+
+[LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger}
+
+[Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success}
+
+[Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark}
