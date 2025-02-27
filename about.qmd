@@ -1,8 +1,10 @@
 ---
-title: "About Me!"
+title: "in case you wanted to learn more about me..."
 ---
 
-Hi, I’m Jazzmin Pearl Duncan—a media science student, writer, and curator passionate about the intersections of technology, digital media, and music culture. With a background in research, data teams, and storytelling, I explore how emerging technologies shape media production, intellectual property, and cultural expression.
+**<span style="color: #2596be;">Hell0!</span>**
+
+I’m Jazzmin Pearl Duncan—a media science student, writer, and curator passionate about the intersections of technology, digital media, and music culture. With a background in research, data teams, and storytelling, I explore how emerging technologies shape media production, intellectual property, and cultural expression.
 
 I’m the Founder and Production Manager of Circuits, Internet, Media & Software (CIMS), a collective dedicated to celebrating the fusion of media and computer science through events, publications, and community-driven projects. My work spans journalism, law and policy writing, and software projects that engage with digital culture in innovative ways.
 
@@ -11,3 +13,4 @@ Currently, I’m contributing to p-RoomMatch, a smart roommate-matching platform
 Through my work, I aim to blend technical insight with creative vision, fostering spaces where media, technology, and culture collide in meaningful ways.
 
 Let’s connect and collaborate!
+

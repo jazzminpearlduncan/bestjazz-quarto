@@ -28,6 +28,14 @@ website:
           - text: "poems & creative writing"
           - text: "essays"
           - text: "organizations"
+      - text: "contact me!"
+        menu:
+          - text: "Personal Instagram"
+            href: https://www.instagram.com/jazzmiinpearll/
+          - text: "Email"
+            href: "mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!"
+          - text: GitHub Repo
+            href: https://github.com/jazzminpearlduncan/Website-Project.git
 format:
   html:
     theme:
