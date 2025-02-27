@@ -90,17 +90,22 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">about me</span></a>
+<span class="menu-text">(!click me!)</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./resume.html"> 
-<span class="menu-text">resumé</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resumé" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">resumé</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-resumé">    
+        <li>
+    <a class="dropdown-item" href="./resume.html">
+ <span class="dropdown-text">current resume</span></a>
   </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">projects</span>
@@ -123,13 +128,33 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-writing" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">writing</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-misc-creations" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">misc creations</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-writing">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-misc-creations">    
+        <li class="dropdown-header">organizations</li>
         <li class="dropdown-header">poems &amp; creative writing</li>
         <li class="dropdown-header">essays</li>
-        <li class="dropdown-header">organizations</li>
+        <li class="dropdown-header">photography</li>
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-contact-me" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">contact me!</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-contact-me">    
+        <li>
+    <a class="dropdown-item" href="https://www.instagram.com/jazzmiinpearll/">
+ <span class="dropdown-text">Personal Instagram</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="mailto:jpduncan2022@gmail.com?&amp;subject=I Came From Your Website!">
+ <span class="dropdown-text">Email</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/jazzminpearlduncan/Website-Project.git">
+ <span class="dropdown-text">GitHub Repo</span></a>
+  </li>  
     </ul>
   </li>
 </ul>
