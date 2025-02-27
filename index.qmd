@@ -1,20 +1,11 @@
 ---
 title: "- jazz :)"
+image: bush.jpg
 toc: false
 about:
   template: jolla
-  image-width: 5em
+  image-width: 15em
   image-shape: round
-  links:
-    - text: Personal Instagram
-      href: https://www.instagram.com/jazzmiinpearll/
-    - text: Email
-      href: "mailto:jpduncan2022@gmail.com?
-      &subject=I Came From Your Website!"
-    - text: Book a 30-Minute Meeting!
-      href: https://calendar.app.google/QsZ4EEaKmKxtV9L97
-      
-
 ---
 
 # Welcome!
@@ -22,7 +13,6 @@ about:
 [Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark}
  [LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger} [Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success} [Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark}
 
-![nice to meet you!](bush.jpg)
 
 This is my homepage where I showcase various projects and ideas.
 
