@@ -90,12 +90,19 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">about me</span></a>
+<span class="menu-text">(!click me!)</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./resume.html"> 
-<span class="menu-text">resumé</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resumé" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">resumé</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resumé">    
+        <li>
+    <a class="dropdown-item" href="./resume.html">
+ <span class="dropdown-text">current resume</span></a>
   </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
@@ -120,13 +127,14 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-writing" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">writing</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-misc-creations" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">misc creations</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-writing">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-misc-creations">    
+        <li class="dropdown-header">organizations</li>
         <li class="dropdown-header">poems &amp; creative writing</li>
         <li class="dropdown-header">essays</li>
-        <li class="dropdown-header">organizations</li>
+        <li class="dropdown-header">photography</li>
     </ul>
   </li>
   <li class="nav-item dropdown ">

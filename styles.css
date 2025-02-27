@@ -1,6 +1,7 @@
 /* css styles */
 
 body {
+    
     font-family: "Arial", Sans-Serif;
 }
 
@@ -11,3 +12,106 @@ h1, h2, h3 {
 code {
     font-family: "Arial", Sans-Serif;
 }
+
+/* Change color of each navigation item with persistent darker background */
+.navbar-nav .nav-item:nth-child(1) a {
+  color: #633822 !important; /* Red text */
+  background-color: rgba(255,255,255,1); /* Darker red background */
+  padding: 2px 6px; /* Add some padding around the text */
+  border-radius: 0px; /* Rounded corners */
+  
+}
+
+.navbar-nav .nav-item:nth-child(1) a:hover {
+  background-color: rgba(255, 0, 0, 1);  /* Slightly darken the background */
+  color: #633822;  /* White text on hover */
+  text-decoration: none;  /* Remove underline on hover */
+}
+
+
+/* Change color of each navigation item with persistent darker background */
+.navbar-nav .nav-item:nth-child(2) a {
+  color: #633822 !important; /* Red text */
+  background-color: rgba(255,255,255,1); /* Darker red background */
+  padding: 2px 6px; /* Add some padding around the text */
+  border-radius: 0px; /* Rounded corners */
+  
+}
+
+.navbar-nav .nav-item:nth-child(2) a:hover {
+  background-color: rgba(255, 0, 0, 1);  /* Slightly darken the background */
+  color: #633822;  /* White text on hover */
+  text-decoration: none;  /* Remove underline on hover */
+}
+
+
+/* Change color of each navigation item with persistent darker background */
+.navbar-nav .nav-item:nth-child(3) a {
+  color: #633822 !important; /* Red text */
+  background-color: rgba(255,255,255,1); /* Darker red background */
+  padding: 2px 6px; /* Add some padding around the text */
+  border-radius: 0px; /* Rounded corners */
+  
+}
+
+.navbar-nav .nav-item:nth-child(3) a:hover {
+  background-color: rgba(255, 0, 0, 1);  /* Slightly darken the background */
+  color: #633822;  /* White text on hover */
+  text-decoration: none;  /* Remove underline on hover */
+}
+
+
+/* Change color of each navigation item with persistent darker background */
+.navbar-nav .nav-item:nth-child(4) a {
+  color: #633822 !important; /* Red text */
+  background-color: rgba(255,255,255,1); /* Darker red background */
+  padding: 2px 6px; /* Add some padding around the text */
+  border-radius: 0px; /* Rounded corners */
+  
+}
+
+.navbar-nav .nav-item:nth-child(4) a:hover {
+  background-color: rgba(255, 0, 0, 1);  /* Slightly darken the background */
+  color: #633822;  /* White text on hover */
+  text-decoration: none;  /* Remove underline on hover */
+}
+
+
+/* Change color of each navigation item with persistent darker background */
+.navbar-nav .nav-item:nth-child(5) a {
+  color: #633822 !important; /* Red text */
+  background-color: rgba(255,255,255,1); /* Darker red background */
+  padding: 2px 6px; /* Add some padding around the text */
+  border-radius: 0px; /* Rounded corners */
+  
+}
+
+.navbar-nav .nav-item:nth-child(5) a:hover {
+  background-color: rgba(255, 0, 0, 1);  /* Slightly darken the background */
+  color: #633822;  /* White text on hover */
+  text-decoration: none;  /* Remove underline on hover */
+}
+
+
+/* Optional: Slight change on hover for better interactivity */
+.navbar-nav .nav-item a:hover {
+  background-color: rgba(0, 0, 0, 1);  /* Slightly darken the background */
+  color: #633822;  /* White text on hover */
+  text-decoration: none;  /* Remove underline on hover */
+}
+
+/* Center the items in the navbar */
+.navbar {
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+  align-items: center;     /* Center items vertically if needed */
+  background-color: #000000; /* Cerulean background */
+}
+
+/* Adjust the container for the nav items */
+.navbar-nav {
+  display: flex;
+  gap: 150px;
+}
+
+

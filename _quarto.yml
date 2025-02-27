@@ -5,14 +5,13 @@ project:
 website:
   title: "best, jazz"
   navbar:
-    left:
-      - text: "about me"
+    right:
+      - text: "(!click me!)"
         href: about.qmd
       - text: "resumé"
         menu:
          - text: "current resume"
            href: resume.qmd
-    right:
       - text: "projects"
         menu:
          - text: "The Loop"
@@ -25,11 +24,13 @@ website:
          - text: "Tech Accountability Archive"
 
            
-      - text: "writing"
+      - text: "misc creations"
         menu:
+          - text: "organizations"
           - text: "poems & creative writing"
           - text: "essays"
-          - text: "organizations"
+          - text: "photography"
+
       - text: "contact me!"
         menu:
           - text: "Personal Instagram"
