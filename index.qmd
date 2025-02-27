@@ -1,6 +1,6 @@
 ---
-title: "-jazz :)"
-image: https://media.licdn.com/dms/image/v2/D5603AQGHsSaLa6h51A/profile-displayphoto-shrink_400_400/B56ZTxjuReGUAg-/0/1739219461919?e=1746057600&v=beta&t=opAPXylC0pYJIDxqyRBSHpeJrI95RTTTHjTf5tiisK8
+title: "- jazz :)"
+image: afro.JPG
 toc: false
 about:
   template: broadside
@@ -17,6 +17,12 @@ about:
       
         
 ---
+
+# Welcome to My Website
+
+![me DJing](DJ.jpg)
+
+This is my homepage where I showcase various projects and ideas.
 
 Hello! And thank you for visiting!
 
