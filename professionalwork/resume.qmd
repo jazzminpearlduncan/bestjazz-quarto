@@ -1,9 +1,7 @@
 ---
+title: "last updated: Feb 27, 2025"
 format: html
 ---
-
-
-
 
 ```{=html}
 <object data="resumeforsite.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
@@ -12,4 +10,3 @@ format: html
     download the PDF file.</a></p>
 </object>
 ```
-
