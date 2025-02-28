@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-79108a0fc1995748cbd19a5b0e3e3e7c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -180,6 +180,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-about-solana column-page">
   <div class="about-entity">
     <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block"></header> 
       <div class="about-contents"><main class="content column-page" id="quarto-document-content">
 <p><a href="mailto:jpduncan2022@gmail.com?&amp;subject=I%20Came%20From%20Your%20Website!" class="btn btn-dark btn-sm">Email: jpduncan2022@gmail.com</a> <a href="https://www.linkedin.com/in/jazzmin-pearl-duncan" class="btn btn-warning btn-sm">LinkedIn</a> <a href="https://euphoniousthegreat.substack.com/" class="btn btn-danger btn-sm">Substack</a></p>
 <p><a href="https://calendar.app.google/QsZ4EEaKmKxtV9L97" class="btn btn-success btn-sm">Book a 30-Minute Meeting!</a> <a href="https://www.instagram.com/jazzmiinpearll/" class="btn btn-dark btn-sm"><span class="citation" data-cites="jazzmiinpearll">@jazzmiinpearll</span> (Personal IG)</a></p>
@@ -277,8 +278,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -389,7 +388,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
