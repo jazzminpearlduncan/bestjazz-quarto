@@ -16,10 +16,10 @@ website:
            href: professionalwork/resume.qmd
          - text: "past activities"
            href: professionalwork/pastacts.qmd
+         - text: "organizations"
+           href: professionalwork/orgs.qmd
       - text: "projects"
         menu:
-         - text: "organizations"
-           href: projects/orgs.qmd
          - text: "The Loop"
            href: projects/TheLoop.qmd
          - text: "Hi-De-Ho: Honoring Cab Calloway through Animation"
