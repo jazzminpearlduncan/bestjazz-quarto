@@ -1,0 +1,9 @@
+---
+title: "Hi-De-Ho"
+description: Honoring Cab Calloway, the Rotoscope, and Media History
+author: Jazzmin Duncan
+date: February 17, 2025
+format: html
+---
+
+This is an ongoing project, planned to be completed in early March, focusing on a specific clip from a Betty Boop cartoon featuring a rotoscoped animation of a ghost dancing. The original footage, traced over to create the animation, was a performance of "Minnie the Moocher" by Cab Calloway and his Cotton Club Band—an influential group that played a role in laying the conceptual groundwork for MoTown and Black Hollywood’s rise to prominence throughout the 20th century. While the animated version has become an iconic artifact, even evolving into a meme, it has overshadowed its source material, simultaneously preserving and erasing history. This project will explore how animation can both immortalize and obscure cultural contributions, examining the interplay between adaptation and historical visibility. The final product will be a few-minute-long animated short that traces key moments in animation history, incorporating stylistic recreations, narration, and archival references.

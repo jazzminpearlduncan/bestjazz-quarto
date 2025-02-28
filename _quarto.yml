@@ -11,35 +11,35 @@ website:
       - text: "professional work"
         menu:
          - text: "overview"
-           href: overview.qmd
+           href: professionalwork/overview.qmd
          - text: "current resume"
-           href: resume.qmd
+           href: professionalwork/resume.qmd
          - text: "past activities"
-           href: pastacts.qmd
+           href: professionalwork/pastacts.qmd
       - text: "projects"
         menu:
+         - text: "organizations"
+           href: projects/orgs.qmd
          - text: "The Loop"
-           href: TheLoop.qmd
+           href: projects/TheLoop.qmd
          - text: "Hi-De-Ho: Honoring Cab Calloway through Animation"
-           href: Hi-De-Ho.qmd
+           href: projects/Hi-De-Ho.qmd
          - text: "Halloweekend in Claremont"
-           href: Halloweekend.qmd
+           href: projects/Halloweekend.qmd
          - text: "Cowboy Poker"
-           href: poker.qmd
+           href: projects/poker.qmd
          - text: "Tech Accountability Archive"
-           href: TAA.qmd
+           href: projects/TAA.qmd
 
            
       - text: "creative works"
         menu:
-          - text: "organizations"
-            href: orgs.qmd
           - text: "poems & creative writing"
-            href: writing.qmd
+            href: creativework/writing.qmd
           - text: "essays"
-            href: essays.qmd
+            href: creativework/essays.qmd
           - text: "photography"
-            href: photos.qmd
+            href: creativework/photos.qmd
       - text: "contact me!"
         href: contact.qmd
 
