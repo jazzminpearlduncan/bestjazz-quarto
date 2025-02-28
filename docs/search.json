@@ -37,9 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "welcome!",
+    "title": "(: welcome!",
     "section": "",
-    "text": "welcome!\nEmail: jpduncan2022@gmail.com LinkedIn Substack Book a 30-Minute Meeting! Personal Instagram: jazzmiinpearll\n\n\nthank you for visiting!\nyou can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. there are different songs littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!\nplease contact me if you have any questions or inquiries!"
+    "text": "Email: jpduncan2022@gmail.com LinkedIn Substack\nBook a 30-Minute Meeting! @jazzmiinpearll (Personal IG)\n\n\n\n(: welcome!\nthank you for visiting!\nyou can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. there are different songs littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!\nplease contact me if you have any questions or inquiries!\n(website made using GutHub Pages and Quarto)"
   },
   {
     "objectID": "Database2.html",
@@ -249,7 +249,7 @@
     "href": "projects/TheLoop.html",
     "title": "The Loop",
     "section": "",
-    "text": ":::: {.content-visible when-format=\"html\"}\n\n  \n\n\n\n\n\n::::\n\n\n\n\n\n\nThe Loop is a product of the collective work of students across the 5 Claremont Colleges. Created by Circuits, Internet, Media, and Software, The Loop has published one issue, and the second is currently in progress! Submit here! We don’t discriminate! As the Founder, I am incredibly proud of the momentum, content, and community this magazine has fostered in such a short amount of time, allowing me and my peers to grow as both artists, organizers, and multimedia fanatics.\nI independently curated and edited each submission, designed each page, and led print distribution with stringent time constraints. This magazine was primarily meant to be humanitarian, platforming and dignifying student works that would otherwise be forever stuck in their files; however, it has developed into a more mature, formalized production as the organization behind it, CIMS – founded by me as well–, has grown due to my persistent scouting of new E-Board members, student works, and potential events.\nThis experience has prepared me to report on, organize, and advise people and ideas, especially those related to media, technology, and culture. Having to collaborate extensively across a wide variety of academic disciplines has allowed me to gain the necessary experience to begin learning the ropes of doing so professionally, whether as a journalist or representative.\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "The Loop is a product of the collective work of students across the 5 Claremont Colleges. Created by Circuits, Internet, Media, and Software, The Loop has published one issue, and the second is currently in progress! Submit here! We don’t discriminate! As the Founder, I am incredibly proud of the momentum, content, and community this magazine has fostered in such a short amount of time, allowing me and my peers to grow as both artists, organizers, and multimedia fanatics.\nI independently curated and edited each submission, designed each page, and led print distribution with stringent time constraints. This magazine was primarily meant to be humanitarian, platforming and dignifying student works that would otherwise be forever stuck in their files; however, it has developed into a more mature, formalized production as the organization behind it, CIMS – founded by me as well–, has grown due to my persistent scouting of new E-Board members, student works, and potential events.\nThis experience has prepared me to report on, organize, and advise people and ideas, especially those related to media, technology, and culture. Having to collaborate extensively across a wide variety of academic disciplines has allowed me to gain the necessary experience to begin learning the ropes of doing so professionally, whether as a journalist or representative.\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
     "objectID": "projects/TAA.html",
@@ -320,5 +320,54 @@
     "title": "- jazz :)",
     "section": "",
     "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
+  },
+  {
+    "objectID": "mainstuff/about.html#about-me",
+    "href": "mainstuff/about.html#about-me",
+    "title": "- jazz :)",
+    "section": "- about me",
+    "text": "- about me\nMy name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in."
+  },
+  {
+    "objectID": "mainstuff/about.html#about-my-work",
+    "href": "mainstuff/about.html#about-my-work",
+    "title": "- jazz :)",
+    "section": "- about my work",
+    "text": "- about my work"
+  },
+  {
+    "objectID": "mainstuff/about.html#about-my-interests",
+    "href": "mainstuff/about.html#about-my-interests",
+    "title": "- jazz :)",
+    "section": "- about my interests",
+    "text": "- about my interests"
+  },
+  {
+    "objectID": "mainstuff/contact.html",
+    "href": "mainstuff/contact.html",
+    "title": "- jazz :)",
+    "section": "",
+    "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
+  },
+  {
+    "objectID": "mainstuff/contact.html#contact-meclick-the-buttons-for-direct-links.",
+    "href": "mainstuff/contact.html#contact-meclick-the-buttons-for-direct-links.",
+    "title": "- jazz :)",
+    "section": "",
+    "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
+  },
+  {
+    "objectID": "index.html#thank-you-for-visiting",
+    "href": "index.html#thank-you-for-visiting",
+    "title": "welcome!",
+    "section": "thank you for visiting!",
+    "text": "thank you for visiting!\nyou can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. there are different songs littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!\nplease contact me if you have any questions or inquiries!\n(website made using GutHub Pages and Quarto)"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "thank you for visiting!",
+    "section": "",
+    "text": "Email: jpduncan2022@gmail.com LinkedIn Substack\nBook a 30-Minute Meeting! @jazzmiinpearll (Personal IG)\n\n\n^^^ play me! ^^^"
   }
 ]

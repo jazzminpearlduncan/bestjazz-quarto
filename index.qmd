@@ -1,21 +1,26 @@
 ---
 format: html
-
-image: embeddedpics/measf.png 
+image: embeddedpics/meass.png 
 toc: false
 about:
   template: solana
-  image-width: 40em
+  image-width: 35em
   image-shape: rectangle
 ---
-# welcome!
 
 [Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark .btn-sm}
- [LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning .btn-sm} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger .btn-sm} [Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm} [Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}
+ [LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning .btn-sm} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger .btn-sm} 
  
+ [Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm} [@jazzmiinpearll (Personal IG)](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}
+
+
 :::: {.content-visible when-format="html"}
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2webt5TTKJiCuxd2khD2JA?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OLOcKHN4uXRo5ISx2TAqk?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ::::
+
+# (:  welcome! 
+
+
 
 thank you for visiting!
 
@@ -23,6 +28,7 @@ you can find all kinds of information about me here! my resume, past projects, p
 
 please contact me if you have any questions or inquiries!
 
+(website made using GutHub Pages and Quarto)
 
 
 

@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../docs/styles.css">
+<link rel="stylesheet" href="../mainstuff/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="../mainstuff/about.html"> 
 <span class="menu-text">(!click me!)</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -164,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../contact.html"> 
+    <a class="nav-link" href="../mainstuff/contact.html"> 
 <span class="menu-text">contact me!</span></a>
   </li>  
 </ul>
@@ -183,28 +183,6 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
-:::: {.content-visible when-format="html"}
-<div id="spotify-container">
-  <iframe id="spotify-player" style="border-radius:12px; position: fixed; bottom: 0; left: 0; width: 100%; height: 80px; z-index: 1000;" src="https://open.spotify.com/embed/playlist/71e9b3kw4aAPUb8u5Zmvgu?utm_source=generator&amp;autoplay=1" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js"></script>
-<script>
-  $(document).ready(function () {
-    $(document).pjax('a', '#quarto-content', { timeout: 1000 });
-
-    // Ensure iframe doesn't reload
-    if (sessionStorage.getItem("spotify-playing")) {
-      $("#spotify-player").attr("src", $("#spotify-player").attr("src") + "&autoplay=1");
-    }
-
-    window.onbeforeunload = function () {
-      sessionStorage.setItem("spotify-playing", "true");
-    };
-  });
-</script>
-::::
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -246,6 +224,7 @@ ul.task-list li input[type="checkbox"] {
     No biggie... you can <a href="Loop.pdf">click here to
     download the PDF file.</a></p>
 </object>
+
 
 
 </main> <!-- /main -->
@@ -673,28 +652,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/71e9b3kw4aAPUb8u5Zmvgu?utm_source=generator?autoplay=1" width="100%" height="200" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; 
-encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-</iframe>
-<script>
-window.addEventListener('load', function () {
-  if (localStorage.getItem("spotify-player-playing")) {
-    const iframe = document.getElementById("spotify-player");
-    const src = iframe.src;
-    iframe.src = src + "&autoplay=1"; // Keeps autoplay running
-  }
-});
-
-const iframe = document.getElementById("spotify-player");
-iframe.onload = function () {
-  localStorage.setItem("spotify-player-playing", true);
-};
-
-window.onbeforeunload = function() {
-  localStorage.removeItem("spotify-player-playing");
-};
-</script>
-
+<p>Jazzmin (jazz) Pearl Duncan</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
