@@ -7,47 +7,47 @@ website:
   navbar:
     right:
       - text: "(!click me!)"
-        href: mainstuff/about.qmd
+        href: about.qmd
       - text: "professional work"
         menu:
          - text: "overview"
-           href: professionalwork/overview.qmd
+           href: overview.qmd
          - text: "current resume"
-           href: professionalwork/resume.qmd
+           href: resume.qmd
          - text: "past activities"
-           href: professionalwork/pastacts.qmd
+           href: pastacts.qmd
          - text: "organizations"
-           href: professionalwork/orgs.qmd
+           href: orgs.qmd
       - text: "projects"
         menu:
          - text: "The Loop"
-           href: projects/TheLoop.qmd
+           href: TheLoop.qmd
          - text: "Hi-De-Ho: Honoring Cab Calloway through Animation"
-           href: projects/Hi-De-Ho.qmd
+           href: Hi-De-Ho.qmd
          - text: "Halloweekend in Claremont"
-           href: projects/Halloweekend.qmd
+           href: Halloweekend.qmd
          - text: "Cowboy Poker"
-           href: projects/poker.qmd
+           href: poker.qmd
          - text: "Tech Accountability Archive"
-           href: projects/TAA.qmd
+           href: TAA.qmd
 
            
       - text: "creative works"
         menu:
           - text: "poems & creative writing"
-            href: creativework/writing.qmd
+            href: writing.qmd
           - text: "essays"
-            href: creativework/essays.qmd
+            href: essays.qmd
           - text: "photography"
-            href: creativework/photos.qmd
+            href: photos.qmd
       - text: "contact me!"
-        href: mainstuff/contact.qmd
+        href: contact.qmd
   page-footer:
       left: "Jazzmin (jazz) Pearl Duncan"
 
 format:
   html:
-    css: mainstuff/styles.css
+    css: styles.css
     toc: true
     page-layout: full
 
