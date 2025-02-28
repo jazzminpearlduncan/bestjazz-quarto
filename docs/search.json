@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "Database1.html",
-    "href": "Database1.html",
-    "title": "The Loop",
-    "section": "",
-    "text": "This is a faceted bar chart demonstrating different eating habits across nations as it pertains to cheese. We can see that cows are substantially more centered in the dairy industry, while other milks, like water buffalo, go relatively unnoticed. You can also see countries in multiple different groups demonstrating both the breadth and nicheness of their cheeses, Italy being particularly noticible in this regard.\nTidyTusedy dataset: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04\nData origins: cheese.com, a blog and resource for cheese lovers, collected this data."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "mainstuff/about.html",
+    "href": "mainstuff/about.html",
     "title": "- jazz :)",
     "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "Citations.html",
-    "href": "Citations.html",
-    "title": "DS Project1 Citations",
-    "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nTidyTuesday Dataset 1: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04\nTidyTuesday Dataset 2: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30"
-  },
-  {
-    "objectID": "Website-Project.html",
-    "href": "Website-Project.html",
-    "title": "Website-Project",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "Website-Project.html#quarto",
-    "href": "Website-Project.html#quarto",
-    "title": "Website-Project",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "about me\nMy name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in.\n\n\nabout my work\n\n\nabout my interests"
   },
   {
     "objectID": "index.html",
@@ -42,151 +14,18 @@
     "text": "Email: jpduncan2022@gmail.com LinkedIn Substack\nBook a 30-Minute Meeting! @jazzmiinpearll (Personal IG)\n\n\n\n(: welcome!\nthank you for visiting!\nyou can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above.\nthere are different songs (WARNING: explicit versions) littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!\nplease contact me if you have any questions or inquiries!\n(website made using GutHub Pages and Quarto)"
   },
   {
-    "objectID": "Database2.html",
-    "href": "Database2.html",
-    "title": "Runtime through The Years",
-    "section": "",
-    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nRows: 905 Columns: 10\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (6): tconst, title_type, primary_title, original_title, genres, simple_t...\ndbl (4): year, runtime_minutes, average_rating, num_votes\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\n\n# A tibble: 843 × 3\n   years runtime_minutes average_rating\n   &lt;dbl&gt;           &lt;dbl&gt;          &lt;dbl&gt;\n 1  1946             102            6.1\n 2  1946             150            7.5\n 3  1947              88            5.8\n 4  1948              93            5.7\n 5  1949             102            7.1\n 6  1951              87            5.7\n 7  1950             108            7.1\n 8  1951             125            8.1\n 9  1951             103            6.8\n10  1951              96            7.5\n# ℹ 833 more rows\n\n\n\n\n\n\n\n\n\n\n\n [1] \"tconst\"          \"title_type\"      \"primary_title\"   \"original_title\" \n [5] \"year\"            \"runtime_minutes\" \"genres\"          \"simple_title\"   \n [9] \"average_rating\"  \"num_votes\"      \n\n\nTidyTuesday dataset: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30\nData origins: The Internet Movie Database collected this data; it contains a list of movies with the name “Summer” in the title."
-  },
-  {
-    "objectID": "Hi-De-Ho.html",
-    "href": "Hi-De-Ho.html",
-    "title": "Hi-De-Ho",
-    "section": "",
-    "text": "This is an ongoing project, planned to be completed in early March, focusing on a specific clip from a Betty Boop cartoon featuring a rotoscoped animation of a ghost dancing. The original footage, traced over to create the animation, was a performance of “Minnie the Moocher” by Cab Calloway and his Cotton Club Band—an influential group that played a role in laying the conceptual groundwork for MoTown and Black Hollywood’s rise to prominence throughout the 20th century. While the animated version has become an iconic artifact, even evolving into a meme, it has overshadowed its source material, simultaneously preserving and erasing history. This project will explore how animation can both immortalize and obscure cultural contributions, examining the interplay between adaptation and historical visibility. The final product will be a few-minute-long animated short that traces key moments in animation history, incorporating stylistic recreations, narration, and archival references."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "TheLoop.html",
-    "href": "TheLoop.html",
+    "objectID": "projects/TheLoop.html",
+    "href": "projects/TheLoop.html",
     "title": "The Loop",
     "section": "",
+    "text": "The Loop is a product of the collective work of students across the 5 Claremont Colleges. Created by Circuits, Internet, Media, and Software, The Loop has published one issue, and the second is currently in progress! Submit here! We don’t discriminate! As the Founder, I am incredibly proud of the momentum, content, and community this magazine has fostered in such a short amount of time, allowing me and my peers to grow as both artists, organizers, and multimedia fanatics.\nI independently curated and edited each submission, designed each page, and led print distribution with stringent time constraints. This magazine was primarily meant to be humanitarian, platforming and dignifying student works that would otherwise be forever stuck in their files; however, it has developed into a more mature, formalized production as the organization behind it, CIMS – founded by me as well–, has grown due to my persistent scouting of new E-Board members, student works, and potential events.\nThis experience has prepared me to report on, organize, and advise people and ideas, especially those related to media, technology, and culture. Having to collaborate extensively across a wide variety of academic disciplines has allowed me to gain the necessary experience to begin learning the ropes of doing so professionally, whether as a journalist or representative.\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "professionalwork/resume.html",
+    "href": "professionalwork/resume.html",
+    "title": "last updated: Feb 27, 2025",
+    "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "Halloweekend.html",
-    "href": "Halloweekend.html",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "“Halloweekend in Claremont: A Documentarian Analysis of 5C Party Promo Culture” is a documentary that was produced as a group project for my Anthropology of Digital Cultures class. Beginning development in October 2024, 2 of my classmates – Mira Settycharity and Simran Saini – and I conducted ethnographic research centering cresting racial, administrative, and political tensions both internal and external to Pomona College, and their effects on how on-campus parties are promoted, and, more importantly, how the promoters and attendees interact (or don’t) with one another.\n\n  \n    \n      \n      Your browser does not support the video tag.\n    \n  \n\nThis short documentary gives a brief, intimate peek into the parties thrown throughout Halloweekend 2024 (Oct 31 - Nov 2). Examining music, design, communication pipelines, and administrative changes at Pomona since the 90’s, we designed this prject to include the documentary below and a complementary ethnographic research paper.\nI edited this in it’s entirety, and filmed about a third of the content; the aesthetics are intentionally unpolished, shaky, and unclear to emulate the chaos and instability reflected both in a night out and emerging political tensions in Claremont. The low quality, however, is for file processing reasons to display on this site."
-  },
-  {
-    "objectID": "extra.html",
-    "href": "extra.html",
-    "title": "DS Project1 Citations",
-    "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\nTidyTuesday Dataset 1: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-06-04\nTidyTuesday Dataset 2: https://github.com/rfordatascience/tidytuesday/tree/a95bcce0d7e09590519ba1ff98512fbf10f443af/data/2024/2024-07-30"
-  },
-  {
-    "objectID": "pastacts.html",
-    "href": "pastacts.html",
-    "title": "Past Work",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
-  },
-  {
-    "objectID": "contact.html#contact-me",
-    "href": "contact.html#contact-me",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "click headings for direct links.\nEmail: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
-  },
-  {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "overview",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "overview.html#college",
-    "href": "overview.html#college",
-    "title": "overview",
-    "section": "college",
-    "text": "college\n…"
-  },
-  {
-    "objectID": "overview.html#high-school",
-    "href": "overview.html#high-school",
-    "title": "overview",
-    "section": "high school",
-    "text": "high school\n…"
-  },
-  {
-    "objectID": "overview.html#extracurricular",
-    "href": "overview.html#extracurricular",
-    "title": "overview",
-    "section": "extracurricular",
-    "text": "extracurricular\n…"
-  },
-  {
-    "objectID": "contact.html#email-jpduncan2022gmail.com",
-    "href": "contact.html#email-jpduncan2022gmail.com",
-    "title": "contact me!",
-    "section": "",
-    "text": "LinkedIn\nSubstack\nBook a 30-Minute Meeting!"
-  },
-  {
-    "objectID": "photos.html",
-    "href": "photos.html",
-    "title": "photos",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "essays.html",
-    "href": "essays.html",
-    "title": "essays",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "writing.html",
-    "href": "writing.html",
-    "title": "writing",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "orgs.html",
-    "href": "orgs.html",
-    "title": "orgs",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "TAA.html",
-    "href": "TAA.html",
-    "title": "TAA",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "poker.html",
-    "href": "poker.html",
-    "title": "poker",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "professionalwork/pastacts.html",
-    "href": "professionalwork/pastacts.html",
-    "title": "Past Work",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
   },
   {
     "objectID": "professionalwork/overview.html#college",
@@ -210,51 +49,23 @@
     "text": "extracurricular\n…"
   },
   {
-    "objectID": "professionalwork/resume.html",
-    "href": "professionalwork/resume.html",
-    "title": "last updated: Feb 27, 2025",
+    "objectID": "Website-Project.html",
+    "href": "Website-Project.html",
+    "title": "Website-Project",
     "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "creativework/photos.html",
-    "href": "creativework/photos.html",
-    "title": "photos",
+    "objectID": "Website-Project.html#quarto",
+    "href": "Website-Project.html#quarto",
+    "title": "Website-Project",
     "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "creativework/essays.html",
-    "href": "creativework/essays.html",
-    "title": "essays",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
     "objectID": "creativework/writing.html",
     "href": "creativework/writing.html",
     "title": "writing",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "projects/Hi-De-Ho.html",
-    "href": "projects/Hi-De-Ho.html",
-    "title": "Hi-De-Ho",
-    "section": "",
-    "text": "This is an ongoing project, planned to be completed in early March, focusing on a specific clip from a Betty Boop cartoon featuring a rotoscoped animation of a ghost dancing. The original footage, traced over to create the animation, was a performance of “Minnie the Moocher” by Cab Calloway and his Cotton Club Band—an influential group that played a role in laying the conceptual groundwork for MoTown and Black Hollywood’s rise to prominence throughout the 20th century.\nWhile the animated version has become an iconic artifact, even evolving into a meme, it has overshadowed its source material, simultaneously preserving and erasing history. This project will explore how animation can both immortalize and obscure cultural contributions, examining the interplay between adaptation and historical visibility. The final product will be a few-minute-long animated short that traces key moments in animation and music history, incorporating stylistic recreations, backtracking, and archival references."
-  },
-  {
-    "objectID": "projects/TheLoop.html",
-    "href": "projects/TheLoop.html",
-    "title": "The Loop",
-    "section": "",
-    "text": "The Loop is a product of the collective work of students across the 5 Claremont Colleges. Created by Circuits, Internet, Media, and Software, The Loop has published one issue, and the second is currently in progress! Submit here! We don’t discriminate! As the Founder, I am incredibly proud of the momentum, content, and community this magazine has fostered in such a short amount of time, allowing me and my peers to grow as both artists, organizers, and multimedia fanatics.\nI independently curated and edited each submission, designed each page, and led print distribution with stringent time constraints. This magazine was primarily meant to be humanitarian, platforming and dignifying student works that would otherwise be forever stuck in their files; however, it has developed into a more mature, formalized production as the organization behind it, CIMS – founded by me as well–, has grown due to my persistent scouting of new E-Board members, student works, and potential events.\nThis experience has prepared me to report on, organize, and advise people and ideas, especially those related to media, technology, and culture. Having to collaborate extensively across a wide variety of academic disciplines has allowed me to gain the necessary experience to begin learning the ropes of doing so professionally, whether as a journalist or representative.\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "projects/TAA.html",
-    "href": "projects/TAA.html",
-    "title": "TAA",
     "section": "",
     "text": "note: UNDER CONSTRUCTION (2-27-2025)"
   },
@@ -266,81 +77,11 @@
     "text": "“Halloweekend in Claremont: A Documentarian Analysis of 5C Party Promo Culture” is a documentary that was produced as a group project for my Anthropology of Digital Cultures class. Beginning development in October 2024, 2 of my classmates and I conducted ethnographic research centering the cresting racial, administrative, and political tensions, both internal and external to Pomona College, and their effects on how on-campus parties are promoted, and, more importantly, how the promoters and attendees interact (or don’t) with one another.\n\n  \n    \n      \n      Your browser does not support the video tag.\n    \n  \n\nThis short documentary gives a brief, intimate peek into the parties thrown throughout Halloweekend 2024 (Oct 31 - Nov 2). Examining music, design, communication pipelines, and administrative changes at Pomona since the 90’s, we designed this project to include the documentary below and a complementary ethnographic research paper.\nI edited this in it’s entirety, and filmed about a third of the content; the aesthetics are intentionally unpolished, shaky, and unclear to emulate the chaos and instability reflected both in a night out and emerging political tensions in Claremont. The low quality, however, is for file processing reasons to display on this site (apologies for the 480p!)."
   },
   {
-    "objectID": "projects/poker.html",
-    "href": "projects/poker.html",
-    "title": "poker",
+    "objectID": "projects/Hi-De-Ho.html",
+    "href": "projects/Hi-De-Ho.html",
+    "title": "Hi-De-Ho",
     "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "projects/orgs.html",
-    "href": "projects/orgs.html",
-    "title": "orgs",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "professionalwork/orgs.html",
-    "href": "professionalwork/orgs.html",
-    "title": "orgs",
-    "section": "",
-    "text": "note: UNDER CONSTRUCTION (2-27-2025)"
-  },
-  {
-    "objectID": "about.html#general",
-    "href": "about.html#general",
-    "title": "- jazz :)",
-    "section": "general",
-    "text": "general\nMy name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "- jazz :)",
-    "section": "- about me",
-    "text": "- about me\nMy name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in."
-  },
-  {
-    "objectID": "about.html#about-my-work",
-    "href": "about.html#about-my-work",
-    "title": "- jazz :)",
-    "section": "- about my work",
-    "text": "- about my work"
-  },
-  {
-    "objectID": "about.html#about-my-interests",
-    "href": "about.html#about-my-interests",
-    "title": "- jazz :)",
-    "section": "- about my interests",
-    "text": "- about my interests"
-  },
-  {
-    "objectID": "contact.html#contact-meclick-the-buttons-for-direct-links.",
-    "href": "contact.html#contact-meclick-the-buttons-for-direct-links.",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
-  },
-  {
-    "objectID": "mainstuff/about.html#about-me",
-    "href": "mainstuff/about.html#about-me",
-    "title": "- jazz :)",
-    "section": "- about me",
-    "text": "- about me\nMy name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in."
-  },
-  {
-    "objectID": "mainstuff/about.html#about-my-work",
-    "href": "mainstuff/about.html#about-my-work",
-    "title": "- jazz :)",
-    "section": "- about my work",
-    "text": "- about my work"
-  },
-  {
-    "objectID": "mainstuff/about.html#about-my-interests",
-    "href": "mainstuff/about.html#about-my-interests",
-    "title": "- jazz :)",
-    "section": "- about my interests",
-    "text": "- about my interests"
+    "text": "This is an ongoing project, planned to be completed in early March, focusing on a specific clip from a Betty Boop cartoon featuring a rotoscoped animation of a ghost dancing. The original footage, traced over to create the animation, was a performance of “Minnie the Moocher” by Cab Calloway and his Cotton Club Band—an influential group that played a role in laying the conceptual groundwork for MoTown and Black Hollywood’s rise to prominence throughout the 20th century.\nWhile the animated version has become an iconic artifact, even evolving into a meme, it has overshadowed its source material, simultaneously preserving and erasing history. This project will explore how animation can both immortalize and obscure cultural contributions, examining the interplay between adaptation and historical visibility. The final product will be a few-minute-long animated short that traces key moments in animation and music history, incorporating stylistic recreations, backtracking, and archival references."
   },
   {
     "objectID": "mainstuff/contact.html",
@@ -350,27 +91,6 @@
     "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
   },
   {
-    "objectID": "mainstuff/contact.html#contact-meclick-the-buttons-for-direct-links.",
-    "href": "mainstuff/contact.html#contact-meclick-the-buttons-for-direct-links.",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
-  },
-  {
-    "objectID": "index.html#thank-you-for-visiting",
-    "href": "index.html#thank-you-for-visiting",
-    "title": "welcome!",
-    "section": "thank you for visiting!",
-    "text": "thank you for visiting!\nyou can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. there are different songs littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!\nplease contact me if you have any questions or inquiries!\n(website made using GutHub Pages and Quarto)"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "thank you for visiting!",
-    "section": "",
-    "text": "Email: jpduncan2022@gmail.com LinkedIn Substack\nBook a 30-Minute Meeting! @jazzmiinpearll (Personal IG)\n\n\n^^^ play me! ^^^"
-  },
-  {
     "objectID": "mainstuff/contact.html#contact-me-click-the-buttons-for-direct-links.",
     "href": "mainstuff/contact.html#contact-me-click-the-buttons-for-direct-links.",
     "title": "- jazz :)",
@@ -378,31 +98,10 @@
     "text": "Email: jpduncan2022@gmail.com\nLinkedIn Substack\nBook a 30-Minute Meeting!\nPersonal Instagram: jazzmiinpearll"
   },
   {
-    "objectID": "mainstuff/contact.html#or-listen-to-this-playlist",
-    "href": "mainstuff/contact.html#or-listen-to-this-playlist",
-    "title": "- jazz :)",
-    "section": "or listen to this playlist!",
-    "text": "or listen to this playlist!"
-  },
-  {
-    "objectID": "mainstuff/contact.html#i-made-you-playlist",
-    "href": "mainstuff/contact.html#i-made-you-playlist",
-    "title": "- jazz :)",
-    "section": "i made you playlist!",
-    "text": "i made you playlist!"
-  },
-  {
     "objectID": "mainstuff/contact.html#surprise-i-made-you-playlist",
     "href": "mainstuff/contact.html#surprise-i-made-you-playlist",
     "title": "- jazz :)",
     "section": "surprise! i made you playlist!",
     "text": "surprise! i made you playlist!"
-  },
-  {
-    "objectID": "mainstuff/about.html",
-    "href": "mainstuff/about.html",
-    "title": "- jazz :)",
-    "section": "",
-    "text": "about me\nMy name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in.\n\n\nabout my work\n\n\nabout my interests"
   }
 ]
