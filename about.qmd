@@ -2,6 +2,19 @@
 format: html
 ---
 
+:::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" 
+  src="https://open.spotify.com/embed/track/1xUhr8hmAdA8mF6VDJ3M1q" 
+  width="100%" height="100" frameborder="0" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+</iframe>
+::::
 
-### note: UNDER CONSTRUCTION (2-27-2025)
+## - about me
 
+My name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in. 
+
+## - about my work
+
+
+## - about my interests

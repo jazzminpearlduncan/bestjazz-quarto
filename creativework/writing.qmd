@@ -3,4 +3,12 @@ title: "writing"
 format: html
 ---
 
+:::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/71e9b3kw4aAPUb8u5Zmvgu?utm_source=generator" width="50%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::: {.content-visible when-format="html"}
+
 ### note: UNDER CONSTRUCTION (2-27-2025)
+
+:::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1xUhr8hmAdA8mF6VDJ3M1q" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+::::
