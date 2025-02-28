@@ -10,7 +10,7 @@ execute:
 :::: {.content-visible when-format="html"}
 <iframe style="border-radius:12px" 
   src="https://open.spotify.com/embed/track/1xUhr8hmAdA8mF6VDJ3M1q" 
-  width="300" height="80" frameborder="0" 
+  width="100%" height="100" frameborder="0" 
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>
 ::::
@@ -24,7 +24,7 @@ This experience has prepared me to report on, organize, and advise people and id
 
 
 ```{=html}
-<object data="Loop.pdf" type="application/pdf" width="50%" height="50%" style="min-height:100vh;">
+<object data="Loop.pdf" type="application/pdf" width="100%" height="50%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
     No biggie... you can <a href="Loop.pdf">click here to
     download the PDF file.</a></p>

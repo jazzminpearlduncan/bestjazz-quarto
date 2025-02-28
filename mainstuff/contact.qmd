@@ -2,7 +2,7 @@
 format: html
 ---
 
-## contact me!click the buttons for direct links.
+## contact me! click the buttons for direct links.
 
 
 [Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark .btn-sm}
@@ -12,3 +12,9 @@ format: html
 [Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm}
 
 [Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}
+
+## surprise! i made you playlist!
+
+:::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/71e9b3kw4aAPUb8u5Zmvgu?utm_source=generator" width="50%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::: {.content-visible when-format="html"}

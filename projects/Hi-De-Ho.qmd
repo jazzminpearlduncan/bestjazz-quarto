@@ -6,6 +6,11 @@ date: February 17, 2025
 format: html
 ---
 
+:::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7wf7NTTnSbWVkvDChqKFup?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+::::
+
 This is an ongoing project, planned to be completed in early March, focusing on a specific clip from a Betty Boop cartoon featuring a rotoscoped animation of a ghost dancing. The original footage, traced over to create the animation, was a performance of "Minnie the Moocher" by Cab Calloway and his Cotton Club Band—an influential group that played a role in laying the conceptual groundwork for MoTown and Black Hollywood’s rise to prominence throughout the 20th century. 
 
 While the animated version has become an iconic artifact, even evolving into a meme, it has overshadowed its source material, simultaneously preserving and erasing history. This project will explore how animation can both immortalize and obscure cultural contributions, examining the interplay between adaptation and historical visibility. The final product will be a few-minute-long animated short that traces key moments in animation and music history, incorporating stylistic recreations, backtracking, and archival references.
+
