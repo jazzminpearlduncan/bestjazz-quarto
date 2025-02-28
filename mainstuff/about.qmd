@@ -10,12 +10,12 @@ format: html
 </iframe>
 ::::
 
-## - about me
+### about me
 
 My name is Jazzmin, or Jazz, and I am currently a Junior at Pomona College studying Media Studies and Data Science, with a concentration in Electronic Media. This website was assembled as a project for class, and further expanded upon after turning it in. 
 
-## - about my work
+### about my work
 
 
 
-## - about my interests
+### about my interests
