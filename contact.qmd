@@ -2,15 +2,13 @@
 format: html
 ---
 
-## contact me!
-click headings for direct links.
+## contact me!click the buttons for direct links.
 
 
+[Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark .btn-sm}
 
-[Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark}
+[LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning .btn-sm} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger .btn-sm}
 
-[LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning} [Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger}
+[Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm}
 
-[Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success}
-
-[Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark}
+[Personal Instagram: jazzmiinpearll](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}

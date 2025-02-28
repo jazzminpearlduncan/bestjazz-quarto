@@ -42,8 +42,9 @@ website:
             href: creativework/photos.qmd
       - text: "contact me!"
         href: contact.qmd
+  page-footer:
+      left: "Jazzmin (jazz) Pearl Duncan"
 
-            
 format:
   html:
     css: docs/styles.css
