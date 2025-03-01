@@ -25,7 +25,7 @@ about:
 
 thank you for visiting!
 
-you can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. 
+you can find all kinds of information about me here! my resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. much of the site is unfinished, but will be filled in within the next week.
 
 there are different songs (WARNING: explicit versions) littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!
 
@@ -33,5 +33,6 @@ please contact me if you have any questions or inquiries!
 
 (website made using GutHub Pages and Quarto)
 
+quarto render StringAnalysis.qmd --to html
 
 
