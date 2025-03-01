@@ -1,0 +1,10 @@
+---
+title: "StringAnalysis"
+format: html
+---
+
+```{r}
+
+netflix_titles <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2021/2021-04-20/netflix_titles.csv')
+
+```

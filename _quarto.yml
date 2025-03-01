@@ -6,7 +6,7 @@ website:
   title: "- jazz :)"
   navbar:
     right:
-      - text: "(!click me!)"
+      - text: "(!about me!)"
         href: about.qmd
       - text: "professional work"
         menu:
@@ -42,8 +42,16 @@ website:
             href: photos.qmd
       - text: "contact me!"
         href: contact.qmd
-  page-footer:
-      left: "Jazzmin (jazz) Pearl Duncan"
+      - text: "Data Viz"
+        menu:
+          - text: "Dataset 1"
+            href: Database1.qmd
+          - text: "Dataset 2"
+            href: Database2.qmd
+          - text: "String Analysis"
+            href: StringAnalysis.qmd
+  page-footer: 
+    left: "Jazzmin (jazz) Pearl Duncan"
 
 format:
   html:
