@@ -8,6 +8,7 @@ website:
     right:
       - text: "(!about me!)"
         href: about.qmd
+        
       - text: "professional work"
         menu:
          - text: "overview"
@@ -18,6 +19,7 @@ website:
            href: pastacts.qmd
          - text: "organizations"
            href: orgs.qmd
+           
       - text: "projects"
         menu:
          - text: "The Loop"
@@ -30,7 +32,6 @@ website:
            href: poker.qmd
          - text: "Tech Accountability Archive"
            href: TAA.qmd
-
            
       - text: "creative works"
         menu:
@@ -40,8 +41,7 @@ website:
             href: essays.qmd
           - text: "photography"
             href: photos.qmd
-      - text: "contact me!"
-        href: contact.qmd
+        
       - text: "Data Viz"
         menu:
           - text: "Dataset 1"
@@ -50,6 +50,11 @@ website:
             href: Database2.qmd
           - text: "String Analysis"
             href: StringAnalysis.qmd
+            
+      - text: "contact me!"
+        href: contact.qmd
+        
+        
   page-footer: 
     left: "Jazzmin (jazz) Pearl Duncan"
 
