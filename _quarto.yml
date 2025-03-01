@@ -50,8 +50,6 @@ website:
             href: Database2.qmd
           - text: "String Analysis"
             href: StringAnalysis.qmd
-          - text: "test"
-            href: contact.qmd
             
       - text: "contact me!"
         href: contact.qmd
