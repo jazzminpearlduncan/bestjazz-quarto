@@ -11,17 +11,12 @@ about:
 [Email: jpduncan2022@gmail.com](mailto:jpduncan2022@gmail.com?&subject=I Came From Your Website!){.btn .btn-dark .btn-sm}
  [My LinkedIn](https://www.linkedin.com/in/jazzmin-pearl-duncan){.btn .btn-warning .btn-sm} [My Substack](https://euphoniousthegreat.substack.com/){.btn .btn-danger .btn-sm} 
  
- [Book a 30-Minute Meeting!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm} [@jazzmiinpearll (Personal IG)](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}
-
-
-
-
+ [Book a 30-Minute Meeting w/ Me!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm} [@jazzmiinpearll (Personal Instagram)](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}
+ 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53e5ZudJmBizBGPnUP3aQ8?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # (:  Welcome! 
 
-:::: {.content-visible when-format="html"}
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OLOcKHN4uXRo5ISx2TAqk?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-::::
 Thank you for visiting!
 
 You can find all kinds of information about me here! My past projects, essays, interests, and more can be found by clicking through the navigation bar above. The *Data Viz* section is for my Data Science homework, so ignore that unless you're just really curious!
@@ -30,7 +25,7 @@ There are different songs <span style="color: red;">(WARNING: some are explicit;
 
 Please contact me if you have any questions or inquiries!
 
-(website made using GitHub Pages and Quarto)
+(website made manually using GitHub Pages and RStudio)
 
 
 
