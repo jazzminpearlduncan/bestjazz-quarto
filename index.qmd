@@ -13,17 +13,16 @@ about:
  
  [Book a 30-Minute Meeting w/ Me!](https://calendar.app.google/QsZ4EEaKmKxtV9L97){.btn .btn-success .btn-sm} [@jazzmiinpearll (Personal Instagram)](https://www.instagram.com/jazzmiinpearll/){.btn .btn-dark .btn-sm}
  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53e5ZudJmBizBGPnUP3aQ8?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+# (:  welcome!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53e5ZudJmBizBGPnUP3aQ8?utm_source=generator" width="100%" height="120" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-# (:  Welcome! 
+thank you for visiting!
 
-Thank you for visiting!
+you can find all kinds of information about me here! my past projects, essays, interests, and more can be found by clicking through the navigation bar above. The *Data Viz* section is for my Data Science homework, so ignore that unless you're just really curious!
 
-You can find all kinds of information about me here! My past projects, essays, interests, and more can be found by clicking through the navigation bar above. The *Data Viz* section is for my Data Science homework, so ignore that unless you're just really curious!
+there are different songs <span style="color: red;">(WARNING: some are explicit; pay attention to the <em>E</em> symbol on the track)</span> littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be project inspo or a new favorite song!
 
-There are different songs <span style="color: red;">(WARNING: some are explicit; pay attention to the <em>E</em> symbol on the track)</span> littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). I hope you enjoy whatever you find here; whether it be project inspo or a new favorite song!
-
-Please contact me if you have any questions or inquiries!
+please contact me if you have any questions or inquiries!
 
 (website made manually using GitHub Pages and RStudio)
 
