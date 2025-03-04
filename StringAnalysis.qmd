@@ -3,8 +3,18 @@ title: "StringAnalysis"
 format: html
 ---
 
-```{r}
 
-netflix_titles <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2021/2021-04-20/netflix_titles.csv')
 
-```
+# Get the Data
+
+spotify_songs <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-01-21/spotify_songs.csv')
+
+The <- spotify_songs |> 
+  filter(str_detect(playlist_genre, "r.|e.")) |>
+  select(playlist_genre, track_name) |>
+  mutate(jazz_count = str_extract_all(track_name, "\\b[Jj][Aa]?[Zz]{2}")) 
+
+print(The)
+
+print("The name '/Jazz/' appears" + " " + "times" + "in the titles of R&B, Rap, and EDM songs from the SpotifyR dataset. The folowing songs contain my name:" + " " + ". As I try to imagine myself as an early-career professional, I'm using Spotify API data to pursue a thought experiement. I rhetorically ask, ")
+
