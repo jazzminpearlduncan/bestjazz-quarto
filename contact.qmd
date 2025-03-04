@@ -16,7 +16,6 @@ format: html
 
 
 ## surprise! i made you playlist!
+warning: some songs are explicit
 
-:::: {.content-visible when-format="html"}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/71e9b3kw4aAPUb8u5Zmvgu?utm_source=generator" width="50%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-:::: {.content-visible when-format="html"}

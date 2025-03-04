@@ -1,8 +1,5 @@
 ---
-title: "Hi-De-Ho"
-description: Honoring Cab Calloway, the Rotoscope, and Media History
-author: Jazzmin Duncan
-date: February 17, 2025
+title: "Hi-De-Ho: Honoring Cab Calloway, the Rotoscope, and Media History"
 format: html
 ---
 

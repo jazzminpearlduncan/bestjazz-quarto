@@ -24,13 +24,13 @@ about:
 ::::
 Thank you for visiting!
 
-You can find all kinds of information about me here! My resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. 
+You can find all kinds of information about me here! My past projects, essays, interests, and more can be found by clicking through the navigation bar above. The *Data Viz* section is for my Data Science homework, so ignore that unless you're just really curious!
 
-There are different songs (WARNING: some are explicit; pay attention to the *E* symbol on the track) littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). i hope you enjoy whatever you find here; whether it be my resume, an insightful poem, or a new favorite song!
+There are different songs <span style="color: red;">(WARNING: some are explicit; pay attention to the <em>E</em> symbol on the track)</span> littered throughout the site, all of which are in constant rotation on my playlist (updated regularly). I hope you enjoy whatever you find here; whether it be project inspo or a new favorite song!
 
-please contact me if you have any questions or inquiries!
+Please contact me if you have any questions or inquiries!
 
-(website made using GutHub Pages and Quarto)
+(website made using GitHub Pages and Quarto)
 
 
 
