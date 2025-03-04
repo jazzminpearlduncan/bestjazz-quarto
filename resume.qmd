@@ -1,5 +1,6 @@
 ---
-title: "last updated: Feb 27, 2025"
+title: My Resume
+description: Last Updated in Jan 2025
 format: html
 ---
 :::: {.content-visible when-format="html"}

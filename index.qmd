@@ -15,14 +15,13 @@ about:
 
 
 
-:::: {.content-visible when-format="html"}
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OLOcKHN4uXRo5ISx2TAqk?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-::::
+
 
 # (:  Welcome! 
 
-
-
+:::: {.content-visible when-format="html"}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OLOcKHN4uXRo5ISx2TAqk?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+::::
 Thank you for visiting!
 
 You can find all kinds of information about me here! My resume, past projects, photos, upcoming plans, and more can be found by clicking through the navigation bar above. 

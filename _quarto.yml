@@ -22,13 +22,13 @@ website:
            
       - text: "projects"
         menu:
-         - text: "The Loop"
+         - text: "The Loop (Print Production)"
            href: TheLoop.qmd
-         - text: "Hi-De-Ho: Honoring Cab Calloway through Animation"
+         - text: "Hi-De-Ho: Honoring Cab Calloway throughout Media History"
            href: Hi-De-Ho.qmd
-         - text: "Halloweekend in Claremont"
+         - text: "Halloweekend in Claremont Documentary"
            href: Halloweekend.qmd
-         - text: "Cowboy Poker"
+         - text: "Cowboy Poker Shoot"
            href: poker.qmd
          - text: "Tech Accountability Archive"
            href: TAA.qmd

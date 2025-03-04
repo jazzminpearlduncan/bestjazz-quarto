@@ -1,5 +1,6 @@
 ---
 title: "The Loop"
+description: Editor-in-Chief, Page Designer, and Curator
 format: html
 execute: 
   echo: false
