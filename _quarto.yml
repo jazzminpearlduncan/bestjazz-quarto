@@ -8,17 +8,6 @@ website:
     right:
       - text: "(!about me!)"
         href: about.qmd
-        
-      - text: "professional work"
-        menu:
-         - text: "overview"
-           href: overview.qmd
-         - text: "current resume"
-           href: resume.qmd
-         - text: "past activities"
-           href: pastacts.qmd
-         - text: "organizations"
-           href: orgs.qmd
            
       - text: "projects"
         menu:
@@ -33,15 +22,13 @@ website:
          - text: "Tech Accountability Archive"
            href: TAA.qmd
            
-      - text: "creative works"
+      - text: "other works"
         menu:
-          - text: "poems & creative writing"
-            href: writing.qmd
           - text: "essays"
             href: essays.qmd
-          - text: "photography"
-            href: photos.qmd
-        
+          - text: "poems & creative writing (under construction)"
+          - text: "photography (under construction)"
+
       - text: "Data Viz"
         menu:
           - text: "Dataset 1"

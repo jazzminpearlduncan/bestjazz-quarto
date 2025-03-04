@@ -6,29 +6,23 @@ format: html
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2webt5TTKJiCuxd2khD2JA?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ::::
 
-Each essay has been excerpted and linked with a short description of it's topic and a general date that it was written. 
+*Each essay has been excerpted and linked with a short description of it's topic and a general date that it was written. Each of them were written for classwork, and are research papers generally centering around themes of race, politics, and digital worlds.*
 
 
-
+<br><br>
 
 
 [Prejudicial Posthumanism: A Racialized Reframing of Artificial Life Narratives](https://drive.google.com/file/d/1fT7zhOf9CH2nU6f8SnbkJ9_DfPmWZemg/view?usp=drive_link){target="_blank"}
 
-This essay explores the predominate themes of Sci-Fi films with narratives involving AI. Connecting religion, race, and film theory, I argue for close consideration of attitudes and actions surrounding AI, warning of potential disaster driven by overzealous fear or hope.
+This essay explores the intersection of posthumanism, AI, and societal biases, particularly in Western culture. It argues that narratives surrounding artificial life, from ancient myths to modern science fiction, reflect and perpetuate deeply ingrained prejudices. As AI develops, these biases may be amplified, shaping how we understand and interact with AI technologies. The essay critically examines how films like Blade Runner and Ex Machina mirror fears of subjugation, servitude, and racial oppression, projecting these anxieties onto AI. It emphasizes the need to reconsider AI narratives to avoid replicating historical injustices, calling for a future where AI promotes ethical coexistence and mutual growth.
 
 Written in: Spring 2024
 
 For: Cinema and AI - Pomona College
 
-*Also published in The Loop*
+*^Also published in The Loop*
 
-
-
-
-
-
-
-
+<br><br>
 [Crafting Virtual Worlds: The Art, Impact, and Implications of Video Game Modding](https://drive.google.com/file/d/1igrVCOuhWqQR1OfucNFupQ5tIMp2iTLI/view?usp=drive_link){target="_blank"}
 
 This essay explores video game modding as an example of *Socially-Engaged Software* -- software meant to respond to the desires of communities rather than individuals. Defined by mutual aid and recursive digital support, modding communities have both stood at odds and peacefully coexisted with video game production companies. In this essay, I explore this illusive relationship, as well as the act of modding itself as online political resistance, self-expression, and an affirmation of digital liberty.
@@ -39,7 +33,7 @@ For: Socially-Engaged Software - Scripps College
 
 
 
-
+<br><br>
 [The Internet: A Reframing of the Bridge Between the Real and the Fake](https://drive.google.com/file/d/1_iD7_O4GCbyMWFvxQa818CSkZ9ekhAhP/view?usp=drive_link){target="_blank"}
 
 This essay explores how social media bridges digital and physical activism, countering claims that it fosters only passive engagement. It examines the role of weak and strong ties in activism, the free-rider problem in movements, and how decentralized digital organizing mobilizes resources and drives collective action. It also highlights how online activism legitimizes movements and mirrors historical grassroots efforts. Ultimately, the essay reframes social media as a powerful tool for political organizing with real-world impact.
