@@ -3,9 +3,8 @@ title: My Resume
 description: Last Updated in Jan 2025
 format: html
 ---
-:::: {.content-visible when-format="html"}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Ht8c67Xbdt4WzPyZbPGtP?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-::::
+
 
 ```{=html}
 <object data="professionalwork/resumeforsite.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">

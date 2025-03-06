@@ -1,5 +1,8 @@
 ---
-title: "StringAnalysis"
+title: "Project 2"
+description: String Analysis
+author: Jazzmin Duncan
+date: March 5, 2025
 format: html
 execute: 
   warning: false
@@ -14,7 +17,7 @@ spotify_songs <- readr::read_csv('https://raw.githubusercontent.com/rfordatascie
 
 *Context for the data*
 
-[This](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md) dataset was used for TidyTuesday in January of 2020; it was origionally collected by Spotify, and made accessible via the 'spotifyr' package. It contains about 32, 000 rows -- each a different song -- and 26 columns (track_id, track_name, track_artist, track_popularity, track_album_id, track_album_name, track_album_release_date, playlist_name, playlist_id, playlist_genre, playlist_subgenre, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration_ms). About 5000 songs were collected from each of 6 major genres -- R&B, Rock, Rap, Latin, Pop, and EDM.
+[This](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md) dataset was used for TidyTuesday in January of 2020; it was originally collected by Spotify, and made accessible via the [spotifyr](https://www.rcharlie.com/spotifyr/) package. It contains about 32, 000 rows -- each a different song -- and 26 columns (track_id, track_name, track_artist, track_popularity, track_album_id, track_album_name, track_album_release_date, playlist_name, playlist_id, playlist_genre, playlist_subgenre, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration_ms). About 5000 songs were collected from each of 6 major genres -- R&B, Rock, Rap, Latin, Pop, and EDM.
 
 
 *PLOT 1*

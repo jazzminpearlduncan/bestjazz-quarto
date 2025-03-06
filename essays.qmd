@@ -2,14 +2,11 @@
 title: "Essays"
 format: html
 ---
-:::: {.content-visible when-format="html"}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2webt5TTKJiCuxd2khD2JA?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-::::
-
-*Each essay has been excerpted and linked with a short description of it's topic and a general date that it was written. Each of them were written for classwork, and are research papers generally centering around themes of race, politics, and digital worlds.*
 
 
-<br><br>
+*These are a few essays from my classwork. Each essay has been excerpted and linked with a short description of it's topic and a general date that it was written. Each of them were written for classwork, and are research papers generally centering around themes of race, politics, and digital worlds.*
+
 
 
 [Prejudicial Posthumanism: A Racialized Reframing of Artificial Life Narratives](https://drive.google.com/file/d/1fT7zhOf9CH2nU6f8SnbkJ9_DfPmWZemg/view?usp=drive_link){target="_blank"}
