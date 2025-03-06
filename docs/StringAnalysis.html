@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Jazzmin Duncan">
+<meta name="dcterms.date" content="2025-03-05">
+<meta name="description" content="String Analysis">
 
-<title>StringAnalysis – - jazz :)</title>
+<title>Project 2 – - jazz :)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -208,14 +211,31 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">StringAnalysis</h1>
+<h1 class="title">Project 2</h1>
 </div>
 
+<div>
+  <div class="description">
+    String Analysis
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Jazzmin Duncan </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 5, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -230,7 +250,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>spotify_songs <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_csv</span>(<span class="st">'https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-01-21/spotify_songs.csv'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p><em>Context for the data</em></p>
-<p><a href="https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md">This</a> dataset was used for TidyTuesday in January of 2020; it was origionally collected by Spotify, and made accessible via the ‘spotifyr’ package. It contains about 32, 000 rows – each a different song – and 26 columns (track_id, track_name, track_artist, track_popularity, track_album_id, track_album_name, track_album_release_date, playlist_name, playlist_id, playlist_genre, playlist_subgenre, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration_ms). About 5000 songs were collected from each of 6 major genres – R&amp;B, Rock, Rap, Latin, Pop, and EDM.</p>
+<p><a href="https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md">This</a> dataset was used for TidyTuesday in January of 2020; it was originally collected by Spotify, and made accessible via the <a href="https://www.rcharlie.com/spotifyr/">spotifyr</a> package. It contains about 32, 000 rows – each a different song – and 26 columns (track_id, track_name, track_artist, track_popularity, track_album_id, track_album_name, track_album_release_date, playlist_name, playlist_id, playlist_genre, playlist_subgenre, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, and duration_ms). About 5000 songs were collected from each of 6 major genres – R&amp;B, Rock, Rap, Latin, Pop, and EDM.</p>
 <p><em>PLOT 1</em></p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
